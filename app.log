@@ -1,0 +1,85 @@
+2022-06-03 19:28:34,895 INFO  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-03 19:28:34,896 INFO  * Restarting with stat
+2022-06-03 19:28:36,283 WARNING  * Debugger is active!
+2022-06-03 19:28:36,288 INFO  * Debugger PIN: 241-855-304
+2022-06-03 19:28:56,180 INFO  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-03 19:28:56,182 INFO  * Restarting with stat
+2022-06-03 19:28:57,456 WARNING  * Debugger is active!
+2022-06-03 19:28:57,461 INFO  * Debugger PIN: 241-855-304
+2022-06-03 19:29:19,917 INFO 127.0.0.1 - - [03/Jun/2022 19:29:19] "GET / HTTP/1.1" 200 -
+2022-06-03 19:29:23,175 INFO 127.0.0.1 - - [03/Jun/2022 19:29:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-06-03 19:29:45,353 INFO taking request from form
+2022-06-03 19:29:45,364 INFO successfully taken data from form
+2022-06-03 19:29:45,364 INFO [25.0, 1.0, 25.0, 0.0, 54.0, 4.0, 1.0, 5.0]
+2022-06-03 19:29:45,364 INFO predicting the output
+2022-06-03 19:29:45,365 INFO successfully got prediction 
+2022-06-03 19:29:45,365 INFO 1
+2022-06-03 19:29:45,365 INFO 127.0.0.1 - - [03/Jun/2022 19:29:45] "POST /predict HTTP/1.1" 200 -
+2022-06-03 19:33:07,683 INFO taking request from form
+2022-06-03 19:33:07,683 INFO successfully taken data from form
+2022-06-03 19:33:07,683 INFO [25.0, 1.0, 25.0, 0.0, 54.0, 4.0, 1.0, 5.0]
+2022-06-03 19:33:07,683 INFO predicting the output
+2022-06-03 19:33:07,683 INFO successfully got prediction 
+2022-06-03 19:33:07,683 INFO 1
+2022-06-03 19:33:07,684 INFO 127.0.0.1 - - [03/Jun/2022 19:33:07] "POST /predict HTTP/1.1" 200 -
+2022-06-03 19:33:14,076 INFO 127.0.0.1 - - [03/Jun/2022 19:33:14] "GET / HTTP/1.1" 200 -
+2022-06-03 19:37:54,060 INFO  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-03 19:37:54,061 INFO  * Restarting with stat
+2022-06-03 19:37:55,393 WARNING  * Debugger is active!
+2022-06-03 19:37:55,398 INFO  * Debugger PIN: 241-855-304
+2022-06-03 19:43:37,508 INFO  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-03 19:43:37,509 INFO  * Restarting with stat
+2022-06-03 19:43:39,098 WARNING  * Debugger is active!
+2022-06-03 19:43:39,103 INFO  * Debugger PIN: 241-855-304
+2022-06-03 19:43:46,384 INFO 127.0.0.1 - - [03/Jun/2022 19:43:46] "GET / HTTP/1.1" 200 -
+2022-06-03 19:46:43,997 INFO 127.0.0.1 - - [03/Jun/2022 19:46:43] "GET / HTTP/1.1" 200 -
+2022-06-03 19:46:47,196 INFO 127.0.0.1 - - [03/Jun/2022 19:46:47] "GET / HTTP/1.1" 200 -
+2022-06-03 21:26:55,521 INFO  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-03 21:26:55,672 INFO  * Restarting with stat
+2022-06-03 21:26:57,435 WARNING  * Debugger is active!
+2022-06-03 21:26:57,502 INFO  * Debugger PIN: 241-855-304
+2022-06-03 21:29:21,644 INFO 127.0.0.1 - - [03/Jun/2022 21:29:21] "GET / HTTP/1.1" 200 -
+2022-06-03 21:30:12,439 INFO taking request from form
+2022-06-03 21:30:12,439 INFO successfully taken data from form
+2022-06-03 21:30:12,439 INFO [25.0, 1.0, 57.0, 5.0, 0.0, 1.0, 2.0, 2.0]
+2022-06-03 21:30:12,439 INFO predicting the output
+2022-06-03 21:30:12,440 INFO successfully got prediction 
+2022-06-03 21:30:12,440 INFO 1
+2022-06-03 21:30:12,451 INFO 127.0.0.1 - - [03/Jun/2022 21:30:12] "POST /predict HTTP/1.1" 200 -
+2022-06-03 21:30:12,623 INFO 127.0.0.1 - - [03/Jun/2022 21:30:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-06-03 21:31:56,419 INFO 127.0.0.1 - - [03/Jun/2022 21:31:56] "GET / HTTP/1.1" 200 -
+2022-06-03 21:33:29,473 INFO 127.0.0.1 - - [03/Jun/2022 21:33:29] "GET / HTTP/1.1" 200 -
+2022-06-03 21:35:28,555 INFO 127.0.0.1 - - [03/Jun/2022 21:35:28] "GET / HTTP/1.1" 200 -
+2022-06-03 21:42:03,801 INFO  * Detected change in 'C:\\Users\\kapil\\Documents\\live class practice\\flask model\\app.py', reloading
+2022-06-03 21:42:04,444 INFO  * Restarting with stat
+2022-06-03 22:32:23,304 INFO  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-03 22:32:23,305 INFO  * Restarting with stat
+2022-06-03 22:32:24,586 WARNING  * Debugger is active!
+2022-06-03 22:32:24,591 INFO  * Debugger PIN: 241-855-304
+2022-06-03 22:32:43,436 INFO 127.0.0.1 - - [03/Jun/2022 22:32:43] "GET / HTTP/1.1" 200 -
+2022-06-03 22:33:14,045 INFO taking request from form
+2022-06-03 22:33:14,045 INFO successfully taken data from form
+2022-06-03 22:33:14,045 INFO [100.0, 25.0, 47.0, 100.0, 47.0, 1.1, 2.2, 1.0]
+2022-06-03 22:33:14,045 INFO predicting the output
+2022-06-03 22:33:14,046 INFO successfully got prediction 
+2022-06-03 22:33:14,046 INFO 1
+2022-06-03 22:33:14,047 INFO 127.0.0.1 - - [03/Jun/2022 22:33:14] "POST /predict HTTP/1.1" 200 -
+2022-06-03 22:34:48,457 INFO taking request from form
+2022-06-03 22:34:48,458 INFO successfully taken data from form
+2022-06-03 22:34:48,458 INFO [100.0, 25.0, 47.0, 100.0, 47.0, 1.1, 2.2, 1.0]
+2022-06-03 22:34:48,458 INFO predicting the output
+2022-06-03 22:34:48,459 INFO successfully got prediction 
+2022-06-03 22:34:48,459 INFO 1
+2022-06-03 22:34:48,462 INFO 127.0.0.1 - - [03/Jun/2022 22:34:48] "POST /predict HTTP/1.1" 200 -
+2022-06-03 22:35:05,635 INFO taking request from form
+2022-06-03 22:35:05,636 INFO successfully taken data from form
+2022-06-03 22:35:05,636 INFO [100.0, 25.0, 47.0, 100.0, 47.0, 1.1, 2.2, 1.0]
+2022-06-03 22:35:05,637 INFO predicting the output
+2022-06-03 22:35:05,637 INFO successfully got prediction 
+2022-06-03 22:35:05,638 INFO 1
+2022-06-03 22:35:05,639 INFO 127.0.0.1 - - [03/Jun/2022 22:35:05] "POST /predict HTTP/1.1" 200 -
+2022-06-03 22:35:42,424 INFO  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-03 22:35:42,426 INFO  * Restarting with stat
+2022-06-03 22:35:43,688 WARNING  * Debugger is active!
+2022-06-03 22:35:43,693 INFO  * Debugger PIN: 241-855-304
+2022-06-03 22:35:52,682 INFO 127.0.0.1 - - [03/Jun/2022 22:35:52] "GET / HTTP/1.1" 200 -
